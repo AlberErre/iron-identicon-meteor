@@ -1,6 +1,8 @@
 Package.describe({
   name: 'albererre:ironidenticon',
   version: '0.0.1',
+  summary: "change gif image in ethereum accounts",
+  documentation: null
 });
 
 Package.onUse(function(api) {
